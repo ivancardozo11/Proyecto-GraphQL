@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Servidor GraphQL - curso Platzi
 
 Este servidor fue creado como proyecto en el curso de GraphQL que dicté para Platzi en Junio de 2017 (lanzado en Agosto). Sentite libre de descagarlo, modificarlo, o hacer lo que quieras con él para aprender sobre GraphQL.
@@ -25,3 +26,6 @@ Clona este repositorio y en la carpeta raíz ejecuta los siguientes comandos:
 1. `yarn start` para iniciar el servidor
 
 Siguiendo estos pasos, ahora en http://localhost:3000/graphiql deberías ver GraphiQL, y http://localhost:3000/graphql es el endpoint que usarás en tus clientes.
+=======
+# Proyecto-GraphQL
+>>>>>>> a8008aa3118153b33e88a43c01d76779aefb1d84
