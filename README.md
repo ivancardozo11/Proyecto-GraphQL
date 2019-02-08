@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-## Servidor GraphQL - curso Platzi
+## Servidor GraphQL
 
-Este servidor fue creado como proyecto en el curso de GraphQL que dicté para Platzi en Junio de 2017 (lanzado en Agosto). Sentite libre de descagarlo, modificarlo, o hacer lo que quieras con él para aprender sobre GraphQL.
+
 
 Si quieres ver paso a paso cómo se hizo este proyecto y aprender más sobre GraphQL como tecnología, aquí está el [enlace al curso](https://platzi.com/graphql).
 
